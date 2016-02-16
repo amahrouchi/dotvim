@@ -67,6 +67,3 @@
 [submodule "bundle/gitgutter"]
 	path = bundle/gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
-[submodule "bundle/taboo"]
-	path = bundle/taboo
-	url = https://github.com/gcmt/taboo.vim.git
